@@ -10,6 +10,11 @@ import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 
+/**
+ * 可以实现listview头部悬浮效果
+ * @author wangzhan
+ *
+ */
 public class MainActivity extends Activity {
 
 	private LinearLayout invis;
