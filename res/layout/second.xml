@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:background="#ffffff"
+    >
+     <TextView 
+               android:gravity="center"
+              android:text="中"
+              android:layout_weight="1"
+              android:layout_width="0dp"
+              android:layout_height="60dp"/>
+           <TextView 
+                android:gravity="center"
+              android:text="秋"
+             android:layout_weight="1"
+              android:layout_width="0dp"
+              android:layout_height="60dp"/>
+            <TextView 
+                android:gravity="center"
+              android:text="快"
+              android:layout_weight="1"
+              android:layout_width="0dp"
+              android:layout_height="60dp"/>
+            <TextView 
+                android:gravity="center"
+              android:text="乐"
+              android:layout_weight="1"
+              android:layout_width="0dp"
+              android:layout_height="60dp"/>
+</LinearLayout>
